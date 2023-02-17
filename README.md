@@ -5,14 +5,14 @@ The project borrows the concept of fault tree from the field of mechanical engin
 # Requirements
 
 
-`pandas >= 1.3.4`
-`numpy >= 1.21.4`
-`re`
-`sys`
-`jieba>=0.42.1`
-`matplotlib>=3.5.0`
-`sklearn>=0.0.post2`
-`nltk>=3.8.1`
+`pandas >= 1.3.4` <br />
+`numpy >= 1.21.4` <br />
+`re` <br />
+`sys` <br />
+`jieba >= 0.42.1` <br />
+`matplotlib >= 3.5.0` <br />
+`sklearn >= 0.0.post2` <br />
+`nltk >= 3.8.1` <br />
 
 
 # Download
